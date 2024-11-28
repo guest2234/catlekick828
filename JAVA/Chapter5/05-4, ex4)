@@ -1,6 +1,6 @@
 package sec02.exam04;
 
-public class ArrayLengthExample2 {
+public class ArrayLengthExample {
   public static void main(String{} args) {
     int[] scores = { 83, 90 , 87 };
 
