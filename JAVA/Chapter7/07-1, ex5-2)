@@ -2,4 +2,4 @@ package sec01.exam05;
 
 // Membe를 상속할 수 없음
 public class VIP extends Member {
- }
+}
