@@ -1,0 +1,9 @@
+package sec01.exam03;
+
+public class Key {
+  ...
+  @Override
+	public int hashCode() {
+		return number;
+	}
+}
