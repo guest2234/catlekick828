@@ -1,5 +1,4 @@
 package sec01.exam01;
-
 import java.awt.Toolkit;
 
 public class BeepPrintEx1 {
